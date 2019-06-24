@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main role="main" class="container">
+      {{ content }}
+
+      {% include footer.html %}
+    </main>
+
+  </body>
+
+  {% include scripts.html %}
+  <script src="{{ "/js/outcomes-collapse.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+  <script src="{{ "/js/metalanguage-hover.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+  <script src="{{ "/js/tippy.standalone.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main role="main" class="container">
+      <div class="glossary-body">
+      {{ content }}
+      </div>
+
+      {% include footer.html %}
+      
+    </main>
+
+  </body>
+
+  {% include scripts.html %}
+  <script src="{{ "/js/render-scratch-block.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+  <script src="{{ "/js/scratchblocks-v3.4-min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+</html>
