@@ -22,6 +22,12 @@
       <li class="nav-item {% if current[1] contains "links" %} active {% endif %}">
         <a class="nav-link" href="{{ site.baseurl }}/links">Links</a>
       </li>
+
+      {% if current[1] contains "week" %}
+      <li class="nav-item active">
+        <a class="nav-link" href="{{ site.baseurl }}/{{ current[1] }}">{{ page.title }}</a>
+      </li>
+      {% endif %}
     </ul>
   </div>
 </nav>

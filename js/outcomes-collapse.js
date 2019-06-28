@@ -50,7 +50,7 @@ $(document).ready(function() {
 		var outcome_section_template = "";
 
 		var template_div = $("<div id='template'></div>")
-		template_div.load("../../js/outcomes_template.html", function() {
+		template_div.load("../js/outcomes_template.html", function() {
 
 			// For each set of outcomes, there will be a panel in the accordion
 			$.each(outcomes, function(index, outcome) {

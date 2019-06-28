@@ -256,3 +256,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .pc-diagram {
   padding: 2em;
 }
+
+.session-icon {
+  color: #1559cf;
+  font-size: 0.8rem;
+}
