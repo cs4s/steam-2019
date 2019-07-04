@@ -22,16 +22,16 @@ In this session’s activities, you will find out what *Coding* and *Computation
 
 - [An Introduction to the Program](https://drive.google.com/uc?export=view&id=1Kkhxk-w4JI_7DfNhsE_2jU88THq_DkGL){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 - [Coding, Computational Thinking and Scratch]() <i class="fas fa-file-pdf session-icon"></i> 
-- [Session Wrap-up and Homework](https://drive.google.com/uc?export=view&id=1SADNmwFi35uXlNJCxDp_7WJpXjJWI5ax){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
+- [Session Wrap-up](presentations/wrap_up/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 
 ### Activities
 
-- [Getting Started with Scratch](https://drive.google.com/uc?export=view&id=1bvg9zIKCQvXNy2bYYiRz_jqQfXkMP8cE) <i class="fas fa-file-word session-icon"></i>
+- [Getting Started with Scratch](activities/getting_started_with_scratch3.docx) <i class="fas fa-file-word session-icon"></i>
 - [10 Blocks](activities/10_blocks.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 
 ### Homework
 
-- [Week 1 Homework Tasks](https://drive.google.com/uc?export=view&id=1MMVUPy6adNyUeUXdfzoqcADrMoQWWhwp) <i class="fas fa-file-word session-icon"></i> 
+- [Week 1 Homework Tasks](homework/week_1_homework.docx) <i class="fas fa-file-word session-icon"></i> 
 - [Week 1 Homework Exercises](exercises)
 
 ### Links
