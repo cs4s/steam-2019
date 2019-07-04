@@ -9,11 +9,11 @@ If you are interested in finding out more about Coding, Computational Thinking a
 
 ## Websites
 
-- [NESA Coding and Computational Thinking Across the Curriculum Guide](https://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/technology/coding-across-the-curriculum){:target="_blank"}
+- [NESA's Digital Technologies and ICT Resources](https://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/technologies/coding-across-the-curriculum){:target="_blank"}
+- [ScratchEd](http://scratched.gse.harvard.edu/){:target="_blank"}
+- [ScratchEd: Defining Computational Thinking](http://scratched.gse.harvard.edu/ct/defining.html){:target="_blank"}
 - [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/){:target="_blank"}
 - [Computer Science Field Guide](http://csfieldguide.org.nz/){:target="_blank"}
-- [CS4FN - Computer Science 4 Fun](http://www.cs4fn.org/){:target="_blank"}
-- [CSTeachingTips](http://csteachingtips.org/){:target="_blank"}
 - [Google's Computer Science Education Resources](https://www.google.com/edu/cs/index.html){:target="_blank"}
 
 ## Free Lessons
