@@ -21,7 +21,7 @@ In this session’s activities, you will find out what *Coding* and *Computation
 ### Presentations
 
 - [An Introduction to the Program](presentations/intro_to_program/intro_to_program.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
-- [Coding, Computational Thinking and Scratch]() <i class="fas fa-file-pdf session-icon"></i> 
+- [Coding, Computational Thinking and Scratch](presentations/coding/coding.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 - [Session Wrap-up](presentations/wrap_up/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 
 ### Activities
@@ -37,6 +37,7 @@ In this session’s activities, you will find out what *Coding* and *Computation
 ### Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [ScratchEd: Defining Computational Thinking](http://scratched.gse.harvard.edu/ct/defining.html){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Workshop Survey (NEEDS TO BE UPDATED)](https://www.surveymonkey.com/r/uon_coding_session1){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Feedback Form](https://forms.gle/bCwqFtrDinxjHUGX7){:target="_blank"} <i class="fas fa-link session-icon"></i>
 
