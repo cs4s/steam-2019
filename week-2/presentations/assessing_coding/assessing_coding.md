@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](http://cs4s.github.io/steam-2019)
+
 # Assessing Coding
 
-## Coding in Stage 3: {Stream_Title}
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & {Stream_Presenter}
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 2: Teaching Coding with Scratch
 
-##### {Stream_Date} May 2018
+##### 8th August 2019
 
 ---
 
@@ -39,7 +41,7 @@
 ## Multiple Choice Quizzes
 
 - Multiple Choice Quizzes (MCQs) are commonly used for assessing *Computational Concepts*
-- Like the survey we did last week
+- Could use platforms like Kahoot! or similar Quiz websites
 
 ---
 

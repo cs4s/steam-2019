@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](http://cs4s.github.io/steam-2019)
+
 # Scratch Teacher Accounts
 
-## Coding in Stage 3: {Stream_Title}
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & {Stream_Presenter}
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 2: Teaching Coding with Scratch
 
-##### {Stream_Date} May 2018
+##### 8th August 2019
 
 ---
 
@@ -26,8 +28,7 @@
 
 - We highly recommend getting a *Teacher Account* for managing your classes
 - These are a special type of accounts that you have to request through the Scratch website that can help save your time
-- The {Stream_Materials} materials were written before *Teacher Accounts* were made available
-- We will demonstrate how the {Stream_Materials} activities can be used with *Teacher Accounts*
+- We will demonstrate how the Creative Computing activities can be used with *Teacher Accounts*
 
 ---
 

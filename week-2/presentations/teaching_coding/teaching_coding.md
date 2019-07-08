@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](http://cs4s.github.io/steam-2019)
+
 # Teaching Coding
 
-## Coding in Stage 3: {Stream_Title}
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & {Stream_Presenter}
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 2: Teaching with Scratch
 
-##### {Stream_Date} May 2018
+##### 8th August 2019
 
 ---
 
@@ -73,7 +75,7 @@
 
 ---
 
-## Coding in Stage 3
+## Coding & STEAM 2019
 
 - In this program we will investigate a combination of these three teaching approaches:
 	- *Unplugged*
