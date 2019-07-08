@@ -34,7 +34,7 @@ In this session’s activities, you will find out what *Coding* and *Computation
 - [Week 1 Homework Tasks](homework/week_1_homework.docx) <i class="fas fa-file-word session-icon"></i> 
 - [Week 1 Homework Exercises](exercises)
 
-### Links
+## Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [ScratchEd: Defining Computational Thinking](http://scratched.gse.harvard.edu/ct/defining.html){:target="_blank"} <i class="fas fa-link session-icon"></i>
