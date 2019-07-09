@@ -1,6 +1,6 @@
 ---
 layout: glossary
-title: Coding in Stage 3 - Coding & STEAM - Glossary
+title: Coding & STEAM 2019 - Glossary
 ---
 
 # Glossary

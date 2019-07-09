@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coding in Stage 3 - Coding & STEAM - About
+title: Coding & STEAM 2019 - About
 ---
 
 # About
