@@ -63,7 +63,7 @@ Explored the use of some key *computational concepts* in Scratch:
 
 ## Feedback
 
-- If you would like to give us any feedback (concepts you found tricky or pace of session) please complete the feeback form
+- If you would like to give us any feedback (concepts you found tricky or pace of session) please complete the feedback form
 - Responses can be anonymous
 - Link to *Feedback Form* is on session page, under *Links* heading
 - Or go to [hckmd.com/steam-feedback](http://hckmd.com/steam-feedback)
