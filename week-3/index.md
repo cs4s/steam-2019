@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Week 3: Coding and Creative Arts Part 1' 
+title: 'Week 3: Coding and the Creative Arts Part 1' 
 ---
 
 # Week 3: Coding and the Creative Arts Part 1
