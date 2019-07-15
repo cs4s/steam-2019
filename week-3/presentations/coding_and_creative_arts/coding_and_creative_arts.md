@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Coding and the Creative Arts
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Dr Elena Prieto-Rodriguez & Mr Daniel Hickmott
 
 #### Week 3: Coding and the Creative Arts Part 1
 
-##### 1st June 2018
+##### 15th August 2019
 
 ---
 

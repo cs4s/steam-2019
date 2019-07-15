@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Creative Computing Curriclum
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Dr Elena Prieto-Rodriguez & Mr Daniel Hickmott
 
 #### Week 3: Coding and the Creative Arts Part 1
 
-##### 1st June 2018
+##### 15th August 2019
 
 ---
 
@@ -86,7 +88,7 @@
 # Coding & STEAM and the Guide
 
 - We will start working from Unit 2 in this program
-- The Guide was written before *Teacher Accounts* were created 
+- The original Guide was written before *Teacher Accounts* were created 
 - Unit 0 also introduces *Design Journals* and *Critique Groups*
 - Unit 1 is called *Exploring* and the *Big Idea* behind that Unit is important
 

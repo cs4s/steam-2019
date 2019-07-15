@@ -24,7 +24,7 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 ### Presentations
 
 - [Creative Computing Curriculum](presentations/creative_computing/creative_computing.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
-- [Coding and the Creative Arts](presentations/coding_and_creative_arts.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
+- [Coding and the Creative Arts](presentations/coding_and_creative_arts/coding_and_creative_arts.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 - [End of Session Presentation](presentations/session_end/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 
 ### Activities
