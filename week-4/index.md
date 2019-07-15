@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Coding in Stage 3 - Coding & STEAM - Week 4
+title: 'Week 4: Coding and the Creative Arts Part 2'
 ---
 
 # Week 4: Coding and the Creative Arts Part 2
@@ -15,7 +15,7 @@ The activities that you will participate in today involve the creating of script
 
 In the Part 2 session, we will focus on three activities from Unit 2 of the Creative Computing Curriculum guide: *It’s Alive*, *Debug It!* and *Music Video*. You will also learn about some other resources for the teaching of Coding with the Creative Arts.
 
-## Metalanguage
+## Key Terms
 
 [algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [events](){: .metalanguage }, [parallelism](){: .metalanguage }, [loops](){: .metalanguage }, [reset](){: .metalanguage }, [bitmap](){: .metalanguage }, [vector](){: .metalanguage }, [debugging](){: .metalanguage}, [testing](){: .metalanguage } 
 
@@ -23,33 +23,32 @@ In the Part 2 session, we will focus on three activities from Unit 2 of the Crea
 
 ### Presentations
 
-- [Recap of Last Session (Coding and the Creative Arts Part 1)]({{ site.drive_url | append: '13Vr6IIc2qv0OQ1RuW0XVKN4vfrnbFdYI' }}){:target="_blank"} (PDF Presentation)
-- [Coding and the Creative Arts 2]({{ site.drive_url | append: '1_MTmT-7i3na0sUQXP43pNY8uC-3XAH0U' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '1Drh7GAhNtHyF1jnyLU7O961zCOfbNJOV' }}){:target="_blank"} (PDF Presentation)
+- [Recap of Last Session (Coding and the Creative Arts Part 1)](presentations/recap.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
+- [Coding and the Creative Arts 2](presentations/coding_and_creative_arts_2.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
+- [End of Session Presentation](presentations/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 
 ### Activities
 
-- [Creative Computing Unit 2: Animations Part 2]({{ site.drive_url | append: '1cdgU9Yt9dcT4el3N6Khg-US4L3eWaPt-' }}){:target="_blank"} (PDF Document)
-- [Extension: Coding to Make Music with Sonic Pi]({{ site.drive_url | append: '15a-dvVdQjcQ3ugCJgjlDrg07Xj4-CkSU' }}) (Word document)
+- [Creative Computing Unit 2: Animations Part 2](activities/creative_computing_unit_2_animations_part_2.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
+- [Extension: Coding to Make Music with Sonic Pi](../week-3/activities/extension_coding_to_make_music_with_sonic_pi.docx) <i class="fas fa-file-word session-icon"></i>
 
 ### Homework
 
-- [Week 4 Homework Tasks]({{ site.drive_url | append: '1Lu0pRjfXRwMEQpPXtCglTN4BTZNQ_s6Q' }}) (Word document)
-- [Homework Scene Video]({{ site.drive_url | append: '1-gXvbjtRwqzDLAAw2Jh4rt6YndunpyA6' }}) (M4V File)
+- [Week 4 Homework Tasks](homework/week_4_homework.docx) <i class="fas fa-file-word session-icon"></i>
+- [Homework Scene Video](http://hckmd.com/animate){:target="_blank"} <i class="fas fa-video session-icon"></i>
 
-### Links
+## Links
 
-- [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
-- [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"}
-- [Claymation Example Video]({{ site.drive_url | append: '1tyG6lrA1GVndDmxeFm7K2SBfjoV328BN' }}){:target="_blank"} (MP4 Video)
-- [Animations Activity - Scratch Studio](https://scratch.mit.edu/studios/475529/){:target="_blank"}
-- [Last 2 Weeks Planning Survey](https://www.surveymonkey.com/r/cs3_planning){:target="_blank"}
-- [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
+- [Scratch Website](https://scratch.mit.edu/){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Claymation Example Video]({{ site.drive_url | append: '1tyG6lrA1GVndDmxeFm7K2SBfjoV328BN' }}){:target="_blank"} <i class="fas fa-video session-icon"></i>
+- [Animations Activity - Scratch Studio](https://scratch.mit.edu/studios/475529/){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Feedback Form](https://forms.gle/bCwqFtrDinxjHUGX7){:target="_blank"} <i class="fas fa-link session-icon"></i>
 
 ## Related Research
 
-- [Brennan's Dissertation: "Best of both worlds: Issues of structure and agency in computational creation, in and out of school"](https://scholar.harvard.edu/kbrennan/publications/best-both-worlds-issues-structure-and-agency-computational-creation-and-out){:target="_blank"}
-- [A blog post that summarises Brennan's Dissertation](http://www.ethanhein.com/wp/2013/constructivist-learning-and-scratch/){:target="_blank"}
+- [Brennan's Dissertation: "Best of both worlds: Issues of structure and agency in computational creation, in and out of school"](https://scholar.harvard.edu/kbrennan/publications/best-both-worlds-issues-structure-and-agency-computational-creation-and-out){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [A blog post that summarises Brennan's Dissertation](http://www.ethanhein.com/wp/2013/constructivist-learning-and-scratch/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 
 ## Session Outcomes
 
