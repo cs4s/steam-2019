@@ -1,22 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Recap of Last Session
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Dr Elena Prieto-Rodriguez & Mr Daniel Hickmott
 
 #### Week 4: Coding and the Creative Arts Part 2
 
-##### 8th June 2018
-
----
-
-# Planning the Last 2 Sessions
-
-- The program was planned to run over 10 week term
-- The last 2 sessions can be run during the School Holidays
-- We would like to know about your availability during this time
-- *Week 4 > Links > Last 2 Weeks Planning Survey*
-- [https://www.surveymonkey.com/r/cs3_planning](https://www.surveymonkey.com/r/cs3_planning)
+##### 22nd August 2019
 
 ---
 
@@ -35,7 +27,7 @@
 
 # Teacher Accounts + Remixing
 
-- The Creative Computing materials were written before *Teacher Accounts* were made available
+- The original Creative Computing materials were written before *Teacher Accounts* were made available
 - We will use *Remixing* for the Debug It! activities today
 - I will demonstrate how you can set up your own *Class Studios*
 - I will also demonstrate how *Class Studios* can be used to share projects as well

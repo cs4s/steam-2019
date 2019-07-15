@@ -1,16 +1,18 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Session Wrap-up
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Dr Elena Prieto-Rodriguez & Mr Daniel Hickmott
 
 #### Week 4: Coding and the Creative Arts Part 2
 
-##### 8th June 2018
+##### 22nd August 2019
 
 ---
 
-# Creative Arts Part 1:
+# Creative Arts Part 2:
 
 - Three more activities from Unit 2 of the Guide:
     - *It's Alive!*
@@ -33,7 +35,7 @@
 # Homework Tasks
 
 - Every week we will ask you to complete Homework
-- Contributes towards your NESA accreditation hours (each week is 1 hour, for a total of 10 hours)
+- Contributes towards your NESA accreditation hours (each week is 2 hour, for a total of 16 hours)
 - After you have finished, please email me and let me know, so I can record this
 - The tasks and links to complete this homework will always be available on the session page, under the *Homework* heading 	
 
@@ -41,7 +43,7 @@
 
 # Week 4: Recreate this Animation
 
-- [Homework Scene](https://drive.google.com/uc?export=view&id=1-gXvbjtRwqzDLAAw2Jh4rt6YndunpyA6)
+- [Homework Scene](http://hckmd.com/animate)
     - Available to view and download from *Homework > Homework Scene Video* on Week 4 page as well
 - Steps to complete the task are also in the *Week 4 Homework Tasks* document on Week 4 page
 
@@ -103,9 +105,9 @@
 
 ---
 
-# Journal
+# Feedback
 
-- Please complete a Journal entry before you leave today (should take 5-10 minutes)
-- Link to Weekly Journal survey is on the session page, under the *Links* heading
-- Or go to [hckmd.com/journal](hckmd.com/journal)
-- **Before you leave: please Logoff and return Nametag**
+- If you would like to give us any feedback (e.g.: concepts you found tricky or pace of session) please complete the feedback form
+- Responses can be anonymous
+- Link to *Feedback Form* is on session page, under *Links* heading
+- Or go to [hckmd.com/steam-feedback](http://hckmd.com/steam-feedback)

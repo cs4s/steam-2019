@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Coding and the Creative Arts 2
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Dr Elena Prieto-Rodriguez & Mr Daniel Hickmott
 
 #### Week 4: Coding and the Creative Arts Part 2
 
-##### 8th June 2018
+##### 22nd August 2019
 
 ---
 
@@ -53,9 +55,9 @@
 
 # Making Pico Walk
 
-- What happens when we use the *next costume* block with a *when this sprite clicked* block and click Pico over and over?
+- Use a *next costume* block with a *when this sprite clicked* block and click Pico over and over
 
-![inline](images/pico_walking.png)
+![inline 120%](images/pico_walking.png)
 
 - How can we make the *Sprite* (Pico) walk without clicking on Pico over and over?
 
@@ -83,8 +85,8 @@
 
 - Each Unit of the Creative Computing Curriculum Guide has a Studio of Debug It! activities
 - I have set up *Class Studios* for each the Unit 2 Debug It activities for you to *Remix*
-- *Class Studios*: **STEAM Debug - 2.1**, **2.2**, **2.3**, **2.4**, **2.5**
-- There a few different ways to solve these, I will show you some example solutions soon
+- *Class Studios*: **STEAM 2019 Debug - 2.1**,**2.2**,**2.3**,**2.4**,**2.5**
+- I will show you some example solutions soon
 - Once you solve the activity, you can *share* it and add it back to the *Studio*
 
 ---
