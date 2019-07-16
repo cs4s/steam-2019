@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Session Wrap-up
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 5: Coding and English Part 1
 
-##### 15th June 2018
+##### 29th August 2019
 
 ---
 
@@ -33,7 +35,7 @@
 # Homework Tasks
 
 - Every week we will ask you to complete Homework
-- Contributes towards your NESA accreditation hours (each week is 1 hour, for a total of 10 hours)
+- Contributes towards your NESA accreditation hours (each week is 2 hours, for a total of 16 hours)
 - After you have finished, please email me and let me know, so I can record this
 - The tasks and links to complete this homework will always be available on the session page, under the *Homework* heading 	
 
@@ -43,7 +45,7 @@
 
 - Choose any topic you like (e.g. a historical figure, a city or book series)
 - Create a Slideshow in Scratch about that topic
-- [Example Slideshow about Sydney](https://drive.google.com/uc?export=view&id=1zwYWEfou95J06kUM6y8aZdq6lmUWdt_e)
+- [Example Slideshow about Sydney](http://hckmd.com/show-homework)
 	- On Week 5 webpage: *Homework Slideshow Video* link
 
 ---
@@ -60,19 +62,19 @@
 
 # Create Project and Move Sprite to Bottom-Left
 
-![inline 250%](images/create_project.png)
+![inline](images/create_project.png)
 
 ---
 
 # Find Slides for the Slideshow
 
-![inline 250%](images/download_images.png)
+![inline 400%](images/download_images.png)
 
 ---
 
 # Upload the Backdrops and Delete "backdrop1"
 
-![inline 250%](images/upload_images.png)
+![inline](images/upload_images.png)
 
 ---
 
@@ -84,7 +86,7 @@
 
 # Share the Project and Add to the Studio
 
-![inline 250%](images/add_studios.png)
+![inline](images/add_studios.png)
 
 ---
 
@@ -98,9 +100,9 @@
 
 ---
 
-# Journal
+# Feedback
 
-- Please complete a Journal entry before you leave today (should take 5-10 minutes)
-- Link to Weekly Journal survey is on the session page, under the *Links* heading
-- Or go to [hckmd.com/journal](hckmd.com/journal)
-- **Before you leave: please Logoff and return Nametag**
+- If you would like to give us any feedback (e.g.: concepts you found tricky or pace of session) please complete the feedback form
+- Responses can be anonymous
+- Link to *Feedback Form* is on session page, under *Links* heading
+- Or go to [hckmd.com/steam-feedback](http://hckmd.com/steam-feedback)

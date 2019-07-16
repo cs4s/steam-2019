@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Coding and English Part 1
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 5: Coding and English Part 1
 
-##### 15th June 2018
+##### 29th August 2019
 
 ---
 
@@ -85,7 +87,7 @@
 
 # Conversations: Penguin Jokes
 
-- I have created a *Class Studio* named **STEAM Penguin Jokes**
+- I have created a *Class Studio* named **STEAM 2019 Penguin Jokes**
 - You should *remix* the *Penguin Jokes* project I added to that studio
 - How can you change the project to use *broadcast* blocks instead of *wait* blocks?
 
@@ -110,7 +112,7 @@
 # Characters: Jumps
     
 - I will demonstrate this activity
-- You can also remix the *Characters Starter Project* in the *Class Studio* named **STEAM Characters**
+- You can also remix the *Characters Starter Project* in the *Class Studio* named **STEAM 2019 Characters**
 - We will change the project so that this happens:
     - *S* makes Pico do a small jump
     - *B* makes Pico do a big jump
@@ -137,7 +139,7 @@
 
 # Scenes
 
-- Start by remixing the *Scenes Starter Project* in the *Class Studio* named **STEAM Scenes** 
+- Start by remixing the *Scenes Starter Project* in the *Class Studio* named **STEAM 2019 Scenes** 
 - Feel free to change the characters and dialogue in this project to a different story
 - Add some new *Scenes* to the project - try different backdrops
 - I will demonstrate how to download and upload your own backdrops as well

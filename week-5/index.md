@@ -21,8 +21,8 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 
 ### Presentations
 
-- [Coding and English Part 1](activities/coding_and_english.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
-- [End of Session Presentation](activities/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [Coding and English Part 1](presentations/coding_and_english.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [End of Session Presentation](presentations/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 
 ### Activities
 
