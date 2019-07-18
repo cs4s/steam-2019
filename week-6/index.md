@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Week 6: - Coding and English Part 2'
+title: 'Week 6: Coding and English Part 2'
 ---
 
 # Week 6: Coding and English Part 2
@@ -22,8 +22,8 @@ You will also learn about some other resources for the teaching of Coding alongs
 
 ### Presentations
 
-- [Recap of Last Session (Coding and the Creative Arts Part 1)](presentations/recap.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
-- [Coding and the Creative Arts 2](presentations/coding_and_english_2.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [Recap of Last Session (Coding and English Part 1)](presentations/recap.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [Coding and English Part 2](presentations/coding_and_english_2.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 - [End of Session Presentation](presentations/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 
 ### Activities
