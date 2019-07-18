@@ -12,7 +12,6 @@ In the Coding and Mathematics sessions, you will learn how the creation of games
 The teaching of Mathematics alongside Coding has been an area of great interest since the first educational Coding languages were created in the 1970s.
 One of the main approaches for combining the teaching of Mathematics and Coding has involved students designing and Coding their own games.
 An example of a project where students learned Mathematics through game design was [Project Headlight](https://www.youtube.com/watch?v=Asos2_Y3UZc){:target="_blank"}, which ran during the late 1980s and early 1990s in a school in Boston, USA.
-A more recent example of a similar project is [Globaloria](https://globaloria.com/){:target="_blank"}, which is an organisation that provides online courses that teach about the use of game design to help develop students' STEM (Science, Technology, Engineering and Mathematics) skills. 
 
 The session’s activities have been adapted from Unit 4 (Games) of the Creative Computing Curriculum guide. 
 The activities in Unit 4 are intended to encourage students to develop Scratch projects are personally relevant and meaningful to them. 
