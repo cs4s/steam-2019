@@ -35,7 +35,7 @@ In the Part 1 session, we will focus on four activities from Unit 4 of the Creat
 
 #### Games Activities
 
-- [Creative Computing Unit 4: Games Part 1](activities/creative_computing_unit_4_games_part_1.pdf)   <i class="fas fa-file-pdf session-icon"></i>
+- [Creative Computing Unit 4: Games Part 1](activities/creative_computing_unit_4_games_part_1.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 
 #### Starter Games Projects
 
@@ -53,7 +53,7 @@ In the Part 1 session, we will focus on four activities from Unit 4 of the Creat
 #### Task 
 
 - [Week 7 Homework Form Link](https://forms.gle/KDvepVdxPQDwJLf58){:target="_blank"} <i class="fas fa-link session-icon"></i>
-- [Week 7 Homework Task](homework/week_7_homework.docx) <i class="fas fa-file-word session-icon"></i>
+- [Week 7 Homework Tasks](homework/week_7_homework.docx) <i class="fas fa-file-word session-icon"></i>
 
 #### Extensions Projects
 
@@ -75,7 +75,6 @@ In the Part 1 session, we will focus on four activities from Unit 4 of the Creat
 
 ## Related Research
 
-- [Game Design as an Interactive Learning Environment for Fostering Students' and Teachers' Mathematical Inquiry](https://pdfs.semanticscholar.org/9902/3889efb026027e4e642cda9416024980c700.pdf){:target="_blank"}
 - [Constructionist Gaming: Understanding the Benefits of Making Games for Learning](https://static1.squarespace.com/static/526b2134e4b0ed588497ad8e/t/5806838bbebafbcfa832f3d4/1476821899951/2015_KafaiBurke+_Edpsych.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 - [A Scoping Review of Studies on Computational Thinking in K–12 Mathematics Classrooms](http://hckmd.com/papers/2018/ct_scoping_review_draft.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 

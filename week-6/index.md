@@ -36,7 +36,7 @@ You will also learn about some other resources for the teaching of Coding alongs
 #### Task
 
 - [Week 6 Homework Form Link](https://forms.gle/bjfiP3rWeERMxmBE7){:target="_blank"} <i class="fas fa-link session-icon"></i>
-- [Week 6 Homework Task](homework/week_6_homework.docx) <i class="fas fa-file-word session-icon"></i>
+- [Week 6 Homework Tasks](homework/week_6_homework.docx) <i class="fas fa-file-word session-icon"></i>
 
 #### Projects
 
