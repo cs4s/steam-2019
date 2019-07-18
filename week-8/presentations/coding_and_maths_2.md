@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Coding and Mathematics Part 2
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 8: Coding and Mathematics Part 2
 
-##### 6th July 2018
+##### 19th September 2019
 
 ---
 
@@ -192,3 +194,4 @@
 - Did you personalise the projects you made at all?
 - You may have noticed *Puzzles #4*, *#5* and *#6* were missing
 - Those puzzles are part of the homework task and are in the [Week 8 Homework Interactions Puzzles document](https://drive.google.com/uc?export=view&id=1wqot0EYqEQeJlJutg4ROofInCAuaYnoi)
+

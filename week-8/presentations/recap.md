@@ -1,14 +1,16 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Recap of Last Session
 
 # Coding and Mathematics Part 1
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 8: Coding and Mathematics Part 2
 
-##### 6th July 2018
+##### 19th September 2019
 
 ---
 
@@ -100,4 +102,5 @@
 # Computational Concept: Data
 
 ![inline](images/helicopter_glide_speed.png)
+
 

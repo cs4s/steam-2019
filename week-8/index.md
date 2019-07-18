@@ -27,9 +27,9 @@ In the Part 2 session, we will focus on two activities from Unit 4 of the Creati
 
 ### Presentations
 
-- [Recap of Last Session](presentations/recap.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
-- [Coding and Mathematics Part 2](presentations/coding_and_maths_2.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
-- [End of Session Presentation](presentations/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [Recap of Last Session (Needs to be updated!)](presentations/recap.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [Coding and Mathematics Part 2 (Needs to be updated!)](presentations/coding_and_maths_2.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [End of Session Presentation (Needs to be updated!)](presentations/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 
 ### Activities
 
