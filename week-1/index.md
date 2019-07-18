@@ -44,7 +44,7 @@ In this session’s activities, you will find out what *Coding* and *Computation
 ## Related Research
 
 - [Computational Thinking (Jeanette Wing's original article)](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
-- [New Frameworks for Studying and Assessing the Development of Computational Thinking](http://web.media.mit.edu/~kbrennan/files/ Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
+- [New Frameworks for Studying and Assessing the Development of Computational Thinking](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 - [Review on Teaching and Learning of Computational Thinking Through Programming: What is Next for K-12?](https://pdfs.semanticscholar.org/64b5/f719a6f7bff3c58e620d859d7dd5a3d3fdc1.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i> 
 
 ## Session Outcomes
