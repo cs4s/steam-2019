@@ -36,7 +36,7 @@ In the session’s activities, you will learn how to use *Scratch Teacher Accoun
 
 ## Links
 
-### Scratch and Journal Links
+### Scratch and Feedback Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Feedback Form](https://forms.gle/bCwqFtrDinxjHUGX7){:target="_blank"} <i class="fas fa-link session-icon"></i>
