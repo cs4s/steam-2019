@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Coding and English 2
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 6: Coding and English Part 2
 
-##### 22nd June 2018
+##### 5th September 2019
 
 ---
 
@@ -120,4 +122,5 @@
 - How could you use *remixing* with your students?
 - Did you like the changes that others made to your Story?
 - Did you learn about any new blocks or features of Scratch?
+
 

@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Recap of Last Session
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 6: Coding and English Part 2
 
-##### 22nd June 2018
+##### 5th September 2019
 
 ---
 
@@ -78,3 +80,4 @@
 - There is also a *when backdrop switches to* block in the *Events* section
 - Can be useful when creating Stories with multiple scenes and characters disappearing
 - Will show an example of a Scratch project that uses this block
+

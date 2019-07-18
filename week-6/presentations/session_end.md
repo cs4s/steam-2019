@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Session Wrap-up
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 6: Coding and English Part 2
 
-##### 22nd June 2018
+##### 5th September 2019
 
 ---
 
@@ -33,7 +35,7 @@
 # Homework Tasks
 
 - Every week we will ask you to complete Homework
-- Contributes towards your NESA accreditation hours (each week is 1 hour, for a total of 10 hours)
+- Contributes towards your NESA accreditation hours (each week is 2 hours, for a total of 16 hours)
 - After you have finished, please email me and let me know, so I can record this
 - The tasks and links to complete this homework will always be available on the session page, under the *Homework* heading 	
 
@@ -58,7 +60,7 @@
 	- Add a *Sprite*
 	- Change the *Backdrop*
 - Take note of the changes you made
-- Complete the form available from the [Week 6 Homework Form Link](https://goo.gl/forms/nMbVBln3A3MouqTA2)
+- Complete the form available from the [Week 6 Homework Form Link](https://forms.gle/bjfiP3rWeERMxmBE7)
 
 ---
 
@@ -111,10 +113,10 @@
 
 # Week 6 Homework Task: Completing the Form
 
-- Once you have made your four changes to the project you remixed, you should complete the [Week 6 Homework Form Link](https://goo.gl/forms/nMbVBln3A3MouqTA2)
+- Once you have made your four changes to the project you remixed, you should complete the [Week 6 Homework Form Link](https://forms.gle/bjfiP3rWeERMxmBE7)
 - Submitting the form will send me an email
 - I will email you once I have checked the Scratch project and your response to the form
-- **Make sure that you have shared the project and added it to the STEAM Week 6 Homework Class Studio**
+- **Make sure that you have shared the project and added it to the STEAM 2019 Week 6 Homework Class Studio**
 
 ---
 
@@ -127,9 +129,10 @@
 
 ---
 
-# Journal
+# Feedback
 
-- Please complete a Journal entry before you leave today (should take 5-10 minutes)
-- Link to Weekly Journal survey is on the session page, under the *Links* heading
-- Or go to [hckmd.com/journal](hckmd.com/journal)
-- **Before you leave: please Logoff and return Nametag**
+- If you would like to give us any feedback (e.g: concepts you found tricky or pace of session) please complete the feedback form
+- Responses can be anonymous
+- Link to *Feedback Form* is on session page, under *Links* heading
+- Or go to [hckmd.com/steam-feedback](http://hckmd.com/steam-feedback)
+
