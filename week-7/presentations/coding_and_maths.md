@@ -1,12 +1,14 @@
+footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
+
 # Coding and Maths Part 1
 
-## Coding in Stage 3: Coding & STEAM
+## Coding & STEAM 2019
 
-### Mr Daniel Hickmott & Mr Andrew Lyell
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 7: Coding and Mathematics Part 1
 
-##### 29th June 2018
+##### 12th September 2019
 
 ---
 
