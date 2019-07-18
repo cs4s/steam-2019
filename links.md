@@ -20,7 +20,7 @@ If you are interested in finding out more about Coding, Computational Thinking a
 
 - [Computer Science Unplugged](http://csunplugged.org/){:target="_blank"}
 - [TryComputing Lesson Plans](http://www.trycomputing.org/inspire){:target="_blank"}
-- [Google CS First](https://www.cs-first.com/){:target="_blank"}
+- [Google CS First](https://csfirst.withgoogle.com/s/en/home){:target="_blank"}
 - [Code Club Resources](http://projects.codeclubworld.org/en-GB/){:target="_blank"}
 
 ## Articles
@@ -31,7 +31,7 @@ If you are interested in finding out more about Coding, Computational Thinking a
 
 ## Books 
 
-- [Connected Code: Why Children Need to Learn Programming](https://mitpress.mit.edu/connected-code){:target="_blank"}
+- [Connected Code: Why Children Need to Learn Programming](https://mitpress.mit.edu/books/connected-code){:target="_blank"}
 - [Invent To Learn: Making, Tinkering, and Engineering in the Classroom](http://inventtolearn.com/){:target="_blank"}
 - [Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy](https://mitpress.mit.edu/books/connected-gaming){:target="_blank"}
 - [Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers and Play](https://mitpress.mit.edu/books/lifelong-kindergarten){:target="_blank"}
