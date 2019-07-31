@@ -38,7 +38,8 @@ In this session’s activities, you will find out what *Coding* and *Computation
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [ScratchEd: Defining Computational Thinking](http://scratched.gse.harvard.edu/ct/defining.html){:target="_blank"} <i class="fas fa-link session-icon"></i>
-- [Workshop Survey (NEEDS TO BE UPDATED)](https://www.surveymonkey.com/r/uon_coding_session1){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Workshop Survey](https://www.surveymonkey.com/r/C_S2019-pre){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Science and Technology K-6 Syllabus](https://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/science/science-and-technology-k-6-new-syllabus){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Feedback Form](https://forms.gle/bCwqFtrDinxjHUGX7){:target="_blank"} <i class="fas fa-link session-icon"></i>
 
 ## Related Research
