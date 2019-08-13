@@ -33,9 +33,9 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 # Using Scratch to be Creative
 
 - Coding in Scratch can be used to make:
-    - [Music](https://scratch.mit.edu/studios/2823884/)
-    - [Art](https://scratch.mit.edu/studios/2823884/)
-    - [Animations](https://scratch.mit.edu/studios/2823884/)
+    - [Music](https://scratch.mit.edu/projects/12816481/)
+    - [Art](https://scratch.mit.edu/projects/905346/)
+    - [Animations](https://scratch.mit.edu/projects/20974745/)
 
 ---
 
@@ -111,7 +111,7 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 # Orange Square, Purple Circle Activity
 
-- [Orange Square, Purple Circle Studio](http://scratch.mit.edu/studios/47552)
+- [Orange Square, Purple Circle Studio](https://scratch.mit.edu/studios/4670982/)
 - Let's look at the Paint Editor first
 - Create two *Sprites*: an Orange Square and a Purple Circle
 - Explore some of the *Looks* and *Motion* blocks and see what they do
