@@ -103,7 +103,7 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 # Characters: Custom Blocks
 
 - In Scratch, we can *define* our own blocks
-- We call these *Custom Blocks* and they are in the **More Blocks** section
+- We call these *Custom Blocks* and they are in the **My Blocks** section
 - Our aim is to create a *jump* block
 - Then change our project to make our Sprite (Pico) jump at different heights
 
