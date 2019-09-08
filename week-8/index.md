@@ -30,9 +30,9 @@ This survey is similar to the one that we asked you to complete in the Week 1 se
 
 ### Presentations
 
-- [Recap of Last Session (Needs to be updated!)](presentations/recap.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
-- [Coding and Mathematics Part 2 (Needs to be updated!)](presentations/coding_and_maths_2.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
-- [End of Session Presentation (Needs to be updated!)](presentations/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [End of Program and Recap of Last Session](presentations/recap.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [Coding and Mathematics Part 2](presentations/coding_and_maths_2.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
+- [End of Session Presentation](presentations/session_end.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 
 ### Activities
 
@@ -55,6 +55,7 @@ If you complete the Creative Computing activities before the end of the session,
 
 ## Links
 
+- [End of Program Survey](https://www.surveymonkey.com/r/C_S2019-post){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Feedback Form](https://forms.gle/bCwqFtrDinxjHUGX7){:target="_blank"} <i class="fas fa-link session-icon"></i>

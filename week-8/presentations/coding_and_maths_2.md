@@ -42,16 +42,11 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 # Debug It!
 
 - I have created *Class Studios* for each of the *Games* Unit's *DebugIt* activities
-- [STEAM DebugIt 4.1](https://scratch.mit.edu/studios/5218583/)
-- [STEAM DebugIt 4.2](https://scratch.mit.edu/studios/5218584/)
-- [STEAM DebugIt 4.3](https://scratch.mit.edu/studios/5218585/)
-- [STEAM DebugIt 4.4](https://scratch.mit.edu/studios/5218586/)
-- [STEAM DebugIt 4.5](https://scratch.mit.edu/studios/5218588/)
-- We've included some hints in the slides as well
+- We have included some hints in the slides as well
 
 ---
 
-# [STEAM DebugIt 4.1](https://scratch.mit.edu/projects/235218647/)
+# STEAM DebugIt 4.1
 
 - When you move the Cat with the arrow keys, he moves around the Stage
 - When the Cat collides with the other Sprites, these items should be added to the *Inventory* (a *List*)
@@ -71,13 +66,12 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 - *Variables* can **only have 1 value**
 - A *List* can contain 0 or more *Variables*
-- Useful when you have a collection of items
 
 ![inline](images/variables_vs_lists.png)
 
 ---
 
-# [STEAM DebugIt 4.2](https://scratch.mit.edu/projects/235218917/)
+# STEAM DebugIt 4.2
 
 - When the Cat touches a yellow Gobo Sprite, the *score variable* increases by 10
 - We want the score to decrease by 10 whenever the Cat runs into a pink Gobo Sprite
@@ -85,7 +79,7 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 ---
 
-# [STEAM DebugIt 4.3](https://scratch.mit.edu/projects/235219021/)
+# STEAM DebugIt 4.3
 
 - A project where a random number is chosen as a "secret number"
 - You then try and guess the secret number
@@ -95,7 +89,7 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 ---
 
-# [STEAM DebugIt 4.4](https://scratch.mit.edu/projects/235219204)
+# STEAM DebugIt 4.4
 
 - When one of the tennis balls hits the Scratch Cat, the *# of hits* variable should increase by 1
 - Sometimes the *# of hits* variables goes up by a lot more than 1 when the ball hits the Cat
@@ -104,7 +98,7 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 ---
 
-# [STEAM DebugIt 4.5](https://scratch.mit.edu/projects/235219382/)
+# STEAM DebugIt 4.5
 
 - This project is a Maze game, similar to the Starter Project we looked at last week
 - When the Cat runs into the yellow rectangle (the goal) he says: "You win!"
@@ -193,5 +187,5 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 - Could you see any links to Mathematics (or other sujects) when solving the *Puzzles*?
 - Did you personalise the projects you made at all?
 - You may have noticed *Puzzles #4*, *#5* and *#6* were missing
-- Those puzzles are part of the homework task and are in the [Week 8 Homework Interactions Puzzles document](https://drive.google.com/uc?export=view&id=1wqot0EYqEQeJlJutg4ROofInCAuaYnoi)
+- Those puzzles are part of the homework task and are in the [Week 8 Homework Interactions Puzzles document](https://cs4s.github.io/steam-2019/week-8/activities/creative_computing_unit_4_games_part_2.pdf)
 
