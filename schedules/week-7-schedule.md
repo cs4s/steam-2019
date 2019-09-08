@@ -8,4 +8,5 @@
 | 6    | [Coding and English Part 2](week-6)              | Thursday 5th September 5:30pm - 7:30pm  | [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159) |
 | 7    | [Coding and Mathematics Part 1](week-7)          | Thursday 12th September 5:30pm - 7:30pm | [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159) |
 | 8    | Coding and Mathematics Part 2                    | Thursday 19th September 5:30pm - 7:30pm | [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159) |
+|     | [Extras: Coding and Science and Technology](physical_computing) | |
 {: class='table table-striped table-bordered'}

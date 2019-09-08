@@ -19,6 +19,9 @@ The authors of the guide argue that this personal relevance and meaning will hel
 
 In the Part 2 session, we will focus on two activities from Unit 4 of the Creative Computing Curriculum guide: *Debug It!* and *Interactions*.
 
+As this session is the last session in the Coding in Stage 3: Coding & STEAM program, we will also ask you to complete an online survey. 
+This survey is similar to the one that we asked you to complete in the Week 1 session but it also has some extra questions where you can give us feedback about the program. 
+
 ## Key Terms
 
 [algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [remixing](){: .metalanguage },  [events](){: .metalanguage }, [parallelism](){: .metalanguage }, [loops](){: .metalanguage }, [conditionals](){: .metalanguage }, [broadcasting](){: .metalanguage }, [variables](){: .metalanguage }, [data](){: .metalanguage }, [operators](){: .metalanguage }, [sensing](){: .metalanguage }

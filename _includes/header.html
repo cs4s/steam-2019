@@ -23,7 +23,7 @@
         <a class="nav-link" href="{{ site.baseurl }}/links">Links</a>
       </li>
 
-      {% if current[1] contains "week" %}
+      {% if current[1] contains "week" or current[1] contains "physical_computing" %}
       <li class="nav-item active">
         <a class="nav-link" href="{{ site.baseurl }}/{{ current[1] }}">{{ page.title }}</a>
       </li>
