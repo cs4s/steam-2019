@@ -21,7 +21,7 @@ In the Part 1 session, we will focus on four activities from Unit 4 of the Creat
 
 ## Key Terms
 
-[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [remixing](){: .metalanguage},  [events](){: .metalanguage }, [parallelism](){: .metalanguage }, [loops](){: .metalanguage }, [variables](){: .metalanguage}, [data](){: metalanguage }
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [remixing](){: .metalanguage},  [events](){: .metalanguage }, [parallelism](){: .metalanguage }, [loops](){: .metalanguage }, [variables](){: .metalanguage}, [data](){: .metalanguage }
 
 ## Materials 
 
@@ -38,9 +38,9 @@ In the Part 1 session, we will focus on four activities from Unit 4 of the Creat
 
 #### Starter Games Projects
 
-- [Maze Project](https://scratch.mit.edu/projects/230587476/#editor){:target="_blank"} <i class="fas fa-link session-icon"></i>
-- [Pong Project](https://scratch.mit.edu/projects/230588269/#editor){:target="_blank"} <i class="fas fa-link session-icon"></i>
-- [Scrolling Project](https://scratch.mit.edu/projects/230589078/#editor){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Maze Project](https://scratch.mit.edu/projects/327576500/editor/){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Pong Project](https://scratch.mit.edu/projects/327576530/editor/){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Scrolling Project](https://scratch.mit.edu/projects/327576550/editor/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 
 #### Extra Activity
 

@@ -122,8 +122,8 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 # Starter Games: Maze
 
-- In the [STEAM Games - Mazes](https://scratch.mit.edu/studios/5206857/) Class Studio
-- The blocks that you need to add to the *Ball Sprite* and *Goal Sprite* are in the [Creative Computing Unit 4: Games Part 1](https://drive.google.com/uc?export=view&id=1ak5YtRen9SVKBt7ma6lwurf_TMNAvS2t) document 
+- In the [STEAM Games - Mazes](https://scratch.mit.edu/studios/25156170/) Class Studio
+- The blocks that you need to add to the *Ball Sprite* and *Goal Sprite* are in the [Creative Computing Unit 4: Games Part 1](https://cs4s.github.io/steam-2019/week-7/activities/creative_computing_unit_4_games_part_1.pdf) document 
 - What do the different *when key pressed* blocks in the *Ball Sprite* do?
 - Why is there a *touching color* block inside the *if* block, inside the *forever* block?
 
@@ -131,8 +131,8 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 # Starter Games: Pong
 
-- In the [STEAM Games - Pong](https://scratch.mit.edu/studios/5206859/) Class Studio
-- The blocks that you need to add to the *Ball Sprite* and *Paddle Sprite* are in the [Creative Computing Unit 4: Games Part 1](https://drive.google.com/uc?export=view&id=1ak5YtRen9SVKBt7ma6lwurf_TMNAvS2t) document
+- In the [STEAM Games - Pong](https://scratch.mit.edu/studios/25156171/) Class Studio
+- The blocks that you need to add to the *Ball Sprite* and *Paddle Sprite* are in the [Creative Computing Unit 4: Games Part 1](https://cs4s.github.io/steam-2019/week-7/activities/creative_computing_unit_4_games_part_1.pdf) document
 - What do the blocks after the *when right arrow key pressed* and *when left arrow key pressed* blocks in the *Ball Sprite* do?
 - What does the *if on edge, bounce* block in the *Paddle* Sprite do?
 
@@ -140,8 +140,8 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 # Starter Games: Scrolling
 
-- In the [STEAM Games - Scrolling](https://scratch.mit.edu/studios/5206858/) Class Studio
-- The blocks that you need to add to the *Gliding bar Sprite* and *Helicopter Sprite* are in the [Creative Computing Unit 4: Games Part 1](https://drive.google.com/uc?export=view&id=1ak5YtRen9SVKBt7ma6lwurf_TMNAvS2t) document
+- In the [STEAM Games - Scrolling](https://scratch.mit.edu/studios/25156167/) Class Studio
+- The blocks that you need to add to the *Gliding bar Sprite* and *Helicopter Sprite* are in the [Creative Computing Unit 4: Games Part 1](https://cs4s.github.io/steam-2019/week-7/activities/creative_computing_unit_4_games_part_1.pdf) document
 - What is *cloning* and why is it used in the *Gliding bars Sprite*?
 - Why does the *Helicopter Sprite* always fall downwards? Could you make it fall downwards slower or faster?
 
@@ -171,7 +171,7 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 # Score
 
 - The next activity involves adding a *Score* to an existing project
-- The project we will modify can be remixed from the [Fish Chomp Class Studio](https://scratch.mit.edu/projects/230713226/)
+- The project we will modify can be remixed from the [Fish Chomp Class Studio](https://scratch.mit.edu/studios/25156282/)
 - In Coding, we can use *variables* to keep track of scores
 - When we keep track of values (e.g. numbers or text), we call this **Data**
 
@@ -185,7 +185,7 @@ footer: [Coding & STEAM 2019 Program](https://cs4s.github.io/steam-2019/)
 
 # Extensions
 
-- In the [Creative Computing Unit 4: Games Part 1](https://drive.google.com/uc?export=view&id=1ak5YtRen9SVKBt7ma6lwurf_TMNAvS2t) document, there is also an *Extensions* activity
+- In the [Creative Computing Unit 4: Games Part 1](https://cs4s.github.io/steam-2019/week-7/activities/creative_computing_unit_4_games_part_1.pdf) document, there is also an *Extensions* activity
 - That activity includes ideas for how to extend the Games that you have worked on
 - Example projects are also in the materials
 - If you finish the other activities quickly, have a go at adding these extensions
